@@ -15,4 +15,4 @@ print(l_pocet, "l je po přepočtu:", l_vysledek, "gal")
 
 print(20*"=")
 
-print("Přidání textu - pokus pro Git")
+print("Přidání textu 2 - pokus pro Git 2")
