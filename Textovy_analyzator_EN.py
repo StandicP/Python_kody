@@ -47,11 +47,9 @@ uzivatele = {
 print(35*"=")
 print("TEXT ANALYZER")
 print(35*"=")
-print("Enter your username:")
-jmeno = input()
+jmeno = input("Enter your username:\n")
 print(35*"-")
-print("Enter your password:")
-heslo = input()
+heslo = input("Enter your password:\n")
 print(50*"=")
 
 # Přihlášení uživatele - vyhodnocení zadaných údajů:
